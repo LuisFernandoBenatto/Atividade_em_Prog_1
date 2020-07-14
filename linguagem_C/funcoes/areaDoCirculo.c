@@ -9,7 +9,7 @@
 double circulo(double r);
 
 int main (){
-    double r;
+    double r; 
 
     printf("Informe o valor do raio do circulo: ");
     scanf("%lf", &r);

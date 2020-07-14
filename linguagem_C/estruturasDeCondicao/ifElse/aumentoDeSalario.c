@@ -15,8 +15,6 @@ int main (){
     else if( Salario > 2000) {
         printf("\n R$ %.2f \n", Salario + ( Salario * 5/100 ));// ou salario = salario * 1.05;
     }
-    else
-
     system ("pause");
     return 0;
 
